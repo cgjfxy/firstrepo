@@ -1,0 +1,1 @@
+const wm  = (a, b) => a.map((x, i) => [x, b[i]]);
